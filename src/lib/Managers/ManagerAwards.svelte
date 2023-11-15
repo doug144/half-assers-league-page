@@ -187,11 +187,11 @@
     const computeAward = (award) => {
         switch (award) {
             case 1:
-                return '1st Place'
+                return 'Ivanka'
             case 2:
-                return '2nd Place'
+                return '1st Loser'
             case 3:
-                return '3rd Place'
+                return '2nd Loser'
             case 4:
             case 5:
             case 6:
@@ -199,7 +199,7 @@
             case 8:
             case 9:
             case 10:
-                return award + 'th Place';
+                return 'Obama';
             case 'Champion':
                 return award
             case 'Second':
