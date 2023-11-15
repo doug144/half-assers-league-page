@@ -63,8 +63,8 @@ export const tabs = [
             },
             {
                 icon: 'history_edu',
-                label: 'Constitution',
-                dest: '/constitution',
+                label: 'bylaws',
+                dest: '/bylaws',
             },
             {
                 icon: 'sports_football',

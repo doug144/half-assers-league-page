@@ -225,7 +225,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- Scroll to was not functioning properly on the constitution page, reported in [issue #109](https://github.com/nmelhado/league-page/issues/109)
+- Scroll to was not functioning properly on the bylaws page, reported in [issue #109](https://github.com/nmelhado/league-page/issues/109)
     - Added an additional offset to counteract the current scroll position
 
 ## [1.3.0] - 2022-04-27

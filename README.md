@@ -41,7 +41,7 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 - Previous drafts and upcoming draft preview
 - Season matchups
 - Manager bio pages
-- League constitution
+- League bylaws
 - Helpful fantasy football resources and news<br><br>
 - Built using [Svelte](https://svelte.dev/docs) and [SvelteKit](https://kit.svelte.dev/docs)
 - Desktop, Mobile and [PWA](https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/) compatible 
@@ -88,7 +88,7 @@ Generate a custom league page for your Sleeper fantasy football league in just a
     - To add the variables for production, go to your project settings and add the corresponding keys (using the same names as above) to the environment variables section
     - For more detailed instructions, follow the [Training Wheels blog instructions](https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#iii-add-a-blog)
     - Finally, set `enableBlog` to true in `src/lib/utils/leagueInfo.js`
-- Customize your league constitution `/src/routes/constitution/index.svelte` (remember to adjust the table of contents accordingly)
+- Customize your league bylaws `/src/routes/bylaws/index.svelte` (remember to adjust the table of contents accordingly)
 -----------
 ## For local developing [npm](https://docs.npmjs.com/getting-started/what-is-npm):
 
